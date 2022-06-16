@@ -24,7 +24,7 @@ global.author = 'Nomor Bot:6281325984505'
 global.sp = '⭔'
 
 //---------( INFO )---------//
-global.youtube = 'https://youtube.com/c/LEX4YOUU'
+global.youtube = ''
 global.ig = 'https://www.instagram.com/fauzitio_91/'
 global.mygc = 'https://chat.whatsapp.com/L0iC3hLibvlEPKRO3JOMT1'
 global.myweb = 'https://github.com/FauziTioX'
