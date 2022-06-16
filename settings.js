@@ -10,24 +10,24 @@ global.APIKeys = {
 }
 
 //---------( SETTING )---------//
-global.owner = ['6282279915237','6285789004732','6285724706876']
-global.premium = ['6282279915237']
-global.ownernomer = '6282279915237'
-global.ownername = 'Lexxy Official'
-global.botname = 'KaguraMD'
-global.footer = 'Lexxy Official'
+global.owner = ['6285791677204','628886417385','6285380166282','6285701639070','6285295374964','6281325984505']
+global.premium = ['6285791677204','628886417385','6285380166282','6285701639070','6285295374964','6281325984505']
+global.ownernomer = '6285791677204'
+global.ownername = 'FauzyXD'
+global.botname = 'FauzyBOT - MD'
+global.footer = 'FauzyXD'
 global.thumb = fs.readFileSync('./image/fake.jpg')
 global.veloriy = fs.readFileSync('./image/kagura.mp4')
 global.sessionName = 'session'
-global.packname = '© BotWa'
-global.author = '2022'
+global.packname = 'FauzyBOT-MD'
+global.author = 'Nomor Bot:6281325984505'
 global.sp = '⭔'
 
 //---------( INFO )---------//
 global.youtube = 'https://youtube.com/c/LEX4YOUU'
-global.ig = 'https://instagram.com/Lexxy24'
-global.mygc = 'https://chat.whatsapp.com/CRY23lVKmXB7sCMhHmcwVw'
-global.myweb = 'https://github.com/Lexxy24'
+global.ig = 'https://www.instagram.com/fauzitio_91/'
+global.mygc = 'https://chat.whatsapp.com/L0iC3hLibvlEPKRO3JOMT1'
+global.myweb = 'https://github.com/FauziTioX'
 global.email = 'pebrikito0@gmail.com'
 global.region = 'indonesia'
 global.prefa = ['','!','.','🐦','🐤','🗿']
