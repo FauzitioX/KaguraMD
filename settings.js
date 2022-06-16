@@ -15,7 +15,7 @@ global.premium = ['6285791677204','628886417385','6285380166282','6285701639070'
 global.ownernomer = '6285791677204'
 global.ownername = 'FauzyXD'
 global.botname = 'FauzyBOT - MD'
-global.footer = 'FauzyXD'
+global.footer = 'Fauzy-XD - Kahfi-XD'
 global.thumb = fs.readFileSync('./image/fake.jpg')
 global.veloriy = fs.readFileSync('./image/kagura.mp4')
 global.sessionName = 'session'
@@ -24,7 +24,7 @@ global.author = 'Nomor Bot:6281325984505'
 global.sp = '⭔'
 
 //---------( INFO )---------//
-global.youtube = ''
+global.youtube = 'https://youtube.com/channel/UCFnVU49rj4ld8V7eFoCk-Gw'
 global.ig = 'https://www.instagram.com/fauzitio_91/'
 global.mygc = 'https://chat.whatsapp.com/L0iC3hLibvlEPKRO3JOMT1'
 global.myweb = 'https://github.com/FauziTioX'
