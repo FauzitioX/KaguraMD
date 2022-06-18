@@ -19,8 +19,8 @@ global.footer = 'Fauzy-XD - Kahfi-XD'
 global.thumb = fs.readFileSync('./image/fake.jpg')
 global.veloriy = fs.readFileSync('./image/kagura.mp4')
 global.sessionName = 'session'
-global.packname = 'WABot-MD'
-global.author = 'Nomor Bot:6281325984505'
+global.packname = 'BotWA-MD'
+global.author = 'Nomor Bot:+6285295374964'
 global.sp = '⭔'
 
 //---------( INFO )---------//
