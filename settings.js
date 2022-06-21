@@ -10,7 +10,7 @@ global.APIKeys = {
 }
 
 //---------( SETTING )---------//
-global.owner = ['6285380166282','628886417385','6285791677204','6285701639070','6285295374964','6281325984505']
+global.owner = ['6285791677204']
 global.premium = ['6285791677204','628886417385','6285380166282','6285701639070','6285295374964','6281325984505']
 global.ownernomer = '6285380166282'
 global.ownername = 'Kahfi-XD'
@@ -20,7 +20,7 @@ global.thumb = fs.readFileSync('./image/fake.jpg')
 global.veloriy = fs.readFileSync('./image/kagura.mp4')
 global.sessionName = 'session'
 global.packname = 'BotWA-MD'
-global.author = 'Nomor Bot:+6285295374964'
+global.author = 'Nomor Owner:+6285380166282'
 global.sp = '⭔'
 
 //---------( INFO )---------//
