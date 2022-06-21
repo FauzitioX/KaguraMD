@@ -10,11 +10,11 @@ global.APIKeys = {
 }
 
 //---------( SETTING )---------//
-global.owner = ['6285791677204','628886417385','6285380166282','6285701639070','6285295374964','6281325984505']
+global.owner = ['6285380166282','628886417385','6285791677204','6285701639070','6285295374964','6281325984505']
 global.premium = ['6285791677204','628886417385','6285380166282','6285701639070','6285295374964','6281325984505']
-global.ownernomer = '6285791677204'
-global.ownername = 'ALL Owner'
-global.botname = 'FauzyBOT - MD'
+global.ownernomer = '6285380166282'
+global.ownername = 'Kahfi-XD'
+global.botname = Kahfi-XD - MD'
 global.footer = 'Fauzy-XD - Kahfi-XD'
 global.thumb = fs.readFileSync('./image/fake.jpg')
 global.veloriy = fs.readFileSync('./image/kagura.mp4')
@@ -24,11 +24,11 @@ global.author = 'Nomor Bot:+6285295374964'
 global.sp = '⭔'
 
 //---------( INFO )---------//
-global.youtube = 'https://youtube.com/channel/UCFnVU49rj4ld8V7eFoCk-Gw'
-global.ig = 'https://www.instagram.com/fauzitio_91/'
-global.mygc = 'https://chat.whatsapp.com/FLWmjhrhb3nCg1OmoAxQjC'
-global.myweb = 'https://github.com/FauziTioX'
-global.email = 'bnialida@gmail.com'
+global.youtube = 'https://youtube.com/channel/UC6GPl9xMWL61NAXQb3HBrRw'
+global.ig = 'https://instagram.com/Kahfi_tzy'
+global.mygc = 'https://chat.whatsapp.com/E665eqsp4De1JhE6EcC80X'
+global.myweb = 'https://github.com/Kahfi-XD'
+global.email = '-'
 global.region = 'indonesia'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.BgWelcLeav = 'https://telegra.ph/file/ca207893ae26d531cd9c6.jpg'
